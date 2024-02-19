@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "id": "BEiDRoMBcCgN_OcK0TNH",
+            "serial_number": 1,
+            "reviewstatus": "Assigned",
+            "inner_hits": {
+                "jay": [
+                    {
+                        "text": "JAY MORGAN"
+                    },
+                    {
+                        "text": "JAY MORGAN"
+                    },
+                    {
+                        "text": "JAY MORGAN"
+                    }
+                ]
+            },
+            "documentsource": "DEMOHTML",
+            "pageCount": 1,
+            "patientid": "67343444",
+            "patientreference": "5108a330-592e-4553-9a04-5aae8ba8d387",
+            "documentreference": "5c782350-fb21-4c67-946f-f39bd1655e3d",
+            "patientpy": "1283",
+            "reviewer": "GVK",
+            "patientgivenname": "Jay",
+            "patientdob": "1962-04-08T00:00:00",
+            "review": "",
+            "patientgender": "male",
+            "documentname": "JAY_MORGAN.html",
+            "documentid": "DEMOHTML-202109-00002"
+        }
+    ]
+}
